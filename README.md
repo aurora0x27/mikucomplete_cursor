@@ -4,6 +4,8 @@
 
 This is a Miku Cursor theme for KDE Plasma(only 48*48px availible). 
 
+![demo](./img/demo.png)
+
 ***I only transplant the theme to linux, origin author: [MOOS柚眠](https://space.bilibili.com/491029393)***
 
 ## Usage
